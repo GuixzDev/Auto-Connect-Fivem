@@ -1,0 +1,16 @@
+{
+    "token": "", //Token Bot
+    "ip": "", //Ip numerico
+    "ip2": "", //Ip personalizado ou do fivem EX: server.com / cfx.re/join/121561
+    "porta": "30120", //Porta padrao
+    "ts3": "", // Nome ou ip do ts3
+    "name": "", //Nome do sevidor
+    "Canal": "", //Canal para enviar a msg
+    "Logo": "", //Logo do server pode ser gif
+    "CFX": {
+        "url": "" //Ulr de connect pode ser o do fivem  https://cfx.re/join/121561 ou url personalizado
+    },
+    "TS3": {
+        "url": "" //Ip de connect ts3 
+    }
+}
